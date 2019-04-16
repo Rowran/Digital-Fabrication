@@ -67,3 +67,11 @@ a {
   text-decoration: none;
 }
 
+.one {
+list-style: circle;
+}
+
+.two
+{
+list-style: square inside;  
+}
